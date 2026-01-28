@@ -1,0 +1,31 @@
+{
+  "name": "expressrouting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyaWapp/expressRouting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AnyaWapp/expressRouting/issues"
+  },
+  "homepage": "https://github.com/AnyaWapp/expressRouting#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "typescript": "^5.9.3"
+  }
+}
